@@ -1,4 +1,4 @@
-<h2>README
+## README
 
 Explore - testing different things for the Sanity Check
 
